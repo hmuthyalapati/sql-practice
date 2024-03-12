@@ -1,0 +1,11 @@
+Section 8. Managing databases
+*********************************************************************************************
+Selecting a database – show you how to use the USE statement to set the current database.
+USE classicmodels;
+---------------------------------------------------------------------------------------------
+CREATE DATABASE – show you step by step how to create a new database in MySQL Server.
+CREATE DATABASE pracdb;
+---------------------------------------------------------------------------------------------
+DROP DATABASE – walk you through the steps of deleting a database from the database server.
+DROP DATABASE pracdb;
+---------------------------------------------------------------------------------------------
